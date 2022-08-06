@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+.container {
+    background: linear-gradient(#eff542 0%, #df117b 100%);
+}
+
+#app {
+    background-color: (#eff542 0%, #f5429e 100%);
+
+}
+
+#myCarousel {
+    background: linear-gradient(#9b42f5 0%, #eff542 100%);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#linear {
+    font-family: 'The Nautigal', cursive;
+}
+
+h5 {
+    font-family: 'Josefin Sans', sans-serif;
+}
